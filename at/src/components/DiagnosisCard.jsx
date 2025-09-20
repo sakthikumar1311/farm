@@ -1,3 +1,5 @@
+import React from "react";
+
 function DiagnosisCard({ diagnosis }) {
   return (
     <div className="p-6 bg-white shadow rounded-lg">

@@ -1,3 +1,5 @@
+import React from "react";
+
 function WeatherWidget({ weather }) {
   return (
     <div className="p-4 bg-blue-100 rounded-lg shadow">

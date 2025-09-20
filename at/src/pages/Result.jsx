@@ -1,3 +1,4 @@
+import React from "react";
 import DiagnosisCard from "../components/DiagnosisCard";
 import WeatherWidget from "../components/WeatherWidget";
 import { getDiagnosis, getWeather } from "../services/api";
